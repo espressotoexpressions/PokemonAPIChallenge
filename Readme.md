@@ -22,6 +22,6 @@ And a Favorites list utilizing local storage
 Fully Responsive using Tailwind CSS https://tailwindcss.com
 Have a Prototype in Figma (Desktop, Tablet, Mobile)
 
-Figma: https://www.figma.com/design/rcTeWu3FPbM376Tgv8ntvG/Karen-Anne-Cadavos's-team-library?node-id=3800-408
+Figma: https://www.figma.com/design/rcTeWu3FPbM376Tgv8ntvG/Karen-Anne-Cadavos's-team-library?node-id=3800-408&t=eHs5VaGCj6BHAlRz-1
 
 //Peer Reviewed by:
